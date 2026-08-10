@@ -6,7 +6,7 @@ export default function FeaturedGallery() {
     {
       id: 1,
       title: 'Transportation',
-      image: 'https://images.unsplash.com/photo-1551431009-381d36ac3a14?w=400&h=300&fit=crop',
+      image: 'https://cdn.builder.io/api/v1/image/assets%2Fc3202d48dbb248c3892278d3847d3169%2Fe400088f041a47f8bcca6237a1764fa1?format=webp&width=800&height=1200',
       link: '/images/transportation'
     },
     {
