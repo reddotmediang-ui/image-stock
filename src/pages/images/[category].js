@@ -63,7 +63,9 @@ export async function getStaticProps({ params }) {
   const images = Array.from({ length: 12 }, (_, i) => ({
     id: `img-${category.slug}-${i + 1}`,
     title: `${category.title} ${i + 1}`,
-    thumb: `https://images.unsplash.com/photo-${1550000000000 + i}?w=400&h=400&fit=crop`,
+    thumb: category.slug === 'transportation' && i === 0
+      ? 'https://cdn.builder.io/api/v1/image/assets%2Fc3202d48dbb248c3892278d3847d3169%2F4efababb713847a2bf332e3eeb7e9e3f?format=webp&width=800&height=1200'
+      : `https://images.unsplash.com/photo-${1550000000000 + i}?w=400&h=400&fit=crop`,
     url: '#', // Replace with actual stock photo URL
     platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
   }));
