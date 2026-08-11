@@ -12,7 +12,7 @@ export default function FeaturedGallery() {
     {
       id: 2,
       title: 'Market',
-      image: 'https://drive.google.com/file/d/1JHq_KxUfHPz739vfBZF0EvOSKP0-AKfc/view?usp=sharing',
+      image: 'https://media.gettyimages.com/id/2159863988/photo/fashion-designer-draping-cloth-on-a-mannequin.jpg?s=612x612&w=0&k=20&c=RetMrlhlXhpLCT-DO9L4JfLT03ByNn-Twrnlwh8__yk=',
       link: '/images/market'
     },
     {
