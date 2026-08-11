@@ -12,7 +12,7 @@ export default function FeaturedGallery() {
     {
       id: 2,
       title: 'Market',
-      image: 'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400&h=300&fit=crop',
+      image: 'image-stock/image-folder/market-thumb.jpg',
       link: '/images/market'
     },
     {
