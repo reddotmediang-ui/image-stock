@@ -6,7 +6,7 @@ const path = require('path');
 const config = {
   siteName: 'African Photos and Videos',
   siteUrl: 'https://www.africanphotosandvideos.com.ng',
-  email: 'contact@africanphotosandvideos.com.ng',
+  email: 'mailstudioworx@gmail.com',
   googleAnalyticsId: 'G-XXXXXXXXXX',
   vercelProjectId: 'YOUR_VERCEL_PROJECT_ID',
   vercelTeamId: 'YOUR_VERCEL_TEAM_ID'
