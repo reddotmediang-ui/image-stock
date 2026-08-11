@@ -12,7 +12,7 @@ export default function FeaturedGallery() {
     {
       id: 2,
       title: 'Market',
-      image: 'image-stock/image-folder/market-thumb.jpg',
+      image: 'https://drive.google.com/file/d/1JHq_KxUfHPz739vfBZF0EvOSKP0-AKfc/view?usp=sharing',
       link: '/images/market'
     },
     {
