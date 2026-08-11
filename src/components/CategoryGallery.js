@@ -3,10 +3,10 @@ import styles from '@/styles/CategoryGallery.module.css';
 export default function CategoryGallery({ category, images, videos, isVideo = false }) {
   const items = isVideo ? videos : images;
   const stockPlatforms = {
-    getty: { name: 'Getty Images', url: '#' },
-    shutterstock: { name: 'Shutterstock', url: '#' },
-    adobe: { name: 'Adobe Stock', url: '#' },
-    pond5: { name: 'Pond5', url: '#' }
+    getty: { name: 'Getty Images', url: 'https://www.gettyimages.com/search/2/image?phrase=ariyo%20olasunkanmi' },
+    shutterstock: { name: 'Shutterstock', url: 'https://www.shutterstock.com/g/pencilsmoka?msockid=39c8125b262c607e21de04f7271861ba' },
+    adobe: { name: 'Adobe Stock', url: 'https://stock.adobe.com/ng/contributor/206951688/ariyo?msockid=39c8125b262c607e21de04f7271861ba' },
+    pond5: { name: 'Pond5', url: 'https://www.pond5.com/index.php?page=my_uploads' }
   };
 
   return (
