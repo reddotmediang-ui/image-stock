@@ -13,8 +13,8 @@ export default function Contact() {
           <div className={styles.contactItem}>
             <h2>Email</h2>
             <p>
-              <a href="mailto:contact@africanphotosandvideos.com.ng">
-                contact@africanphotosandvideos.com.ng
+              <a href="mailto:mailstudioworx@gmail.com">
+                mailstudioworx@gmail.com
               </a>
             </p>
             <p className={styles.note}>For general inquiries and licensing questions</p>
@@ -23,8 +23,8 @@ export default function Contact() {
           <div className={styles.contactItem}>
             <h2>Phone</h2>
             <p>
-              <a href="tel:+234-8XX-XXX-XXXX">
-                +234-8XX-XXX-XXXX
+              <a href="tel:+234-814-047-7890">
+                +234-814-047-7890
               </a>
             </p>
             <p className={styles.note}>Available during business hours (WAT)</p>
