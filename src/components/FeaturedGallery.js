@@ -18,7 +18,7 @@ export default function FeaturedGallery() {
     {
       id: 3,
       title: 'Lifestyle',
-      image: 'https://www.shutterstock.com/image-photo/man-displaying-joy-happiness-2339160273?trackingId=fbdafe46-a713-4e56-bc7b-508486d3d208&listId=undefined',
+      image: 'https://media.gettyimages.com/id/2149573150/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=XHgQhTfpnwoN0mz2BeWiRYQphHUXXKfNgGk0eaSXSrA=',
       link: '/images/lifestyle'
     },
     {
@@ -30,13 +30,13 @@ export default function FeaturedGallery() {
     {
       id: 5,
       title: 'Aerial',
-      image: 'https://www.shutterstock.com/image-photo/plastic-bottle-on-isolated-background-2436999057?trackingId=66dbedfd-bab4-4f8c-a59d-2484f7146f9e&listId=undefined',
+      image: 'https://media.gettyimages.com/id/2253043338/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=ZLnJCSFhB-ZUb4bOco5iO41QTbUu_5jCEG0PA8x1iBo=',
       link: '/images/aerial'
     },
     {
       id: 6,
       title: 'Food',
-      image: 'https://www.shutterstock.com/image-photo/lagos-nigeria-august-11-2016-street-580738447?trackingId=03838478-cdde-4425-9748-52efb0639840&listId=undefined',
+      image: 'https://images.pond5.com/garden-egg-and-grinded-groundnut-photo-249174816_iconl_nowm.jpeg',
       link: '/images/food'
     }
   ];
