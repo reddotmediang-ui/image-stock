@@ -6,7 +6,7 @@ export default function FeaturedGallery() {
     {
       id: 1,
       title: 'Transportation',
-      image: 'https://www.shutterstock.com/image-photo/25-may-2023-lagos-nigeria-popular-2308999253?trackingId=935e5004-515d-4f46-b31b-dae294fbc5b6&listId=undefined',
+      image: 'https://www.gettyimages.com/detail/photo/neighbourhood-watch-royalty-free-image/919803222?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=1002',
       link: '/images/transportation'
     },
     {
