@@ -316,7 +316,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: '',
+        thumb: 'https://media.gettyimages.com/id/1387597381/video/market-place.jpg?s=640x640&k=20&c=QkE89MS6Oat9SkUy5OU4X1Vi7Mpt_Oed8j7zQKyuYmQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
