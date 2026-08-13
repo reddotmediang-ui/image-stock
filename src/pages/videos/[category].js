@@ -176,14 +176,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-1',
         title: 'Transportation 1',
-        thumb: 'https://www.gettyimages.com/detail/video/people-at-a-refuel-station-stock-footage/2178960435?slot=598',
+        thumb: 'https://media.gettyimages.com/id/1881051114/video/23-december-2023-lagos-nigeria-pedestrians-moving-in-and-out-of-a-market-area-beside-the-road.jpg?s=640x640&k=20&c=qc0-UFzhsGwCQYru4OXkJjatJwfd4u8rPecCIvNBXUk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'https://videos.pond5.com/people-and-transportation-ikorodu-footage-249150729_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2168028107/video/people-at-a-petrol-station.jpg?s=640x640&k=20&c=YZzHmY26xf2vZwNGlI5_R9FdnPp0F5IH0bYVanmjinw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
