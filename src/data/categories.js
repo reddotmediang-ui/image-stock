@@ -75,7 +75,7 @@ export const imageCategories = [
     slug: 'creative',
     title: 'Creative',
     description: 'Artistic and experimental imagery',
-    image: 'https://media.gettyimages.com/id/918946808/photo/heart-shape.jpg?s=612x612&w=0&k=20&c=L2AU8GFX7x8yK3_siksB2JfQaxxWoDsoCHMmGPV2jkc=https://media.gettyimages.com/id/918946808/photo/heart-shape.jpg?s=612x612&w=0&k=20&c=L2AU8GFX7x8yK3_siksB2JfQaxxWoDsoCHMmGPV2jkc='
+    image: 'https://media.gettyimages.com/id/2127715886/photo/multiple-coloured-objects-open-for-selection.jpg?s=612x612&w=0&k=20&c=aLqXOGUo6NSgaeEkfsZPR0AUZYwAfzA_Evt3W6siCJ0='
   }
 ];
 
@@ -84,7 +84,7 @@ export const videoCategories = [
     slug: 'lifestyle',
     title: 'Lifestyle',
     description: 'Daily life and lifestyle content',
-    image: 'https://media.gettyimages.com/id/2149573150/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=XHgQhTfpnwoN0mz2BeWiRYQphHUXXKfNgGk0eaSXSrA='
+    image: 'https://media.gettyimages.com/id/2141482508/photo/black-young-man-working-remotely-from-home.jpg?s=612x612&w=0&k=20&c=_qgfItuqTLtm6mWZ5KN-5ogfY8ktW-QUeozjiKHkj9Q='
   },
   {
     slug: 'transportation',
