@@ -6,7 +6,7 @@ export default function FeaturedGallery() {
     {
       id: 1,
       title: 'Transportation',
-      image: 'https://www.gettyimages.com/detail/photo/neighbourhood-watch-royalty-free-image/919803222?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=1002',
+      image: 'https://media.gettyimages.com/id/637382222/photo/tricycle-driver.jpg?s=612x612&w=0&k=20&c=djHBvonOhcE1pgyG4AcVrW_chXVI6DmZ8yOFFlg8Pcg=',
       link: '/images/transportation'
     },
     {
