@@ -316,35 +316,35 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: 'https://media.gettyimages.com/id/1387605497/video/market-place.mp4?s=mp4-640x640-gi&k=20&c=TfjDdlW_oqlh1kW34YJE9n4h0zBP72z0BEl7ZGFSqZw=',
+        thumb: '',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-9',
         title: 'Market 9',
-        thumb: 'https://media.gettyimages.com/id/2175300462/video/market-environment-in-lagos.mp4?s=mp4-640x640-gi&k=20&c=aqqITY9AC5rjOkL_TSISFpVxJ_mzZxj7suN-7oPGoEM=',
+        thumb: '',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: 'https://media.gettyimages.com/id/2191599191/video/daily-life-routines-at-market-environment.mp4?s=mp4-640x640-gi&k=20&c=y-97aCBce9btTrOnaKRUk0LVDzEPrgcJaruy-CQXsm8=',
+        thumb: '',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-11',
         title: 'Market 11',
-        thumb: 'https://media.gettyimages.com/id/2188966613/video/warehouse-market-environment.mp4?s=mp4-640x640-gi&k=20&c=9HE0QmJOIsAl_HO3hsdup-ZKZV3Qwse0h7GQmK5T1yE=',
+        thumb: '',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-12',
         title: 'Market 12',
-        thumb: 'https://media.gettyimages.com/id/2166094575/video/open-market-setting-in-day-light.mp4?s=mp4-640x640-gi&k=20&c=G1_jsfrRWBLL5BMIi5_XoQW0QMXOYFC8JIBHFCf3suk=',
+        thumb: '',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
