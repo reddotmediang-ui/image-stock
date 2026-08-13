@@ -183,7 +183,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'https://media.gettyimages.com/id/2168028107/video/people-at-a-petrol-station.jpg?s=640x640&k=20&c=YZzHmY26xf2vZwNGlI5_R9FdnPp0F5IH0bYVanmjinw=',
+        thumb: 'https://media.gettyimages.com/id/2283180378/video/train-track-and-train-station.mp4?s=mp4-640x640-gi&k=20&c=PlrhPrGiGckrap3fr-MFyc_-GxWTR0p931cOr9s_jww=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
