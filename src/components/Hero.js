@@ -14,7 +14,7 @@ export default function Hero() {
       </div>
       <div className={styles.heroImage}>
         <img 
-          src="https://images.unsplash.com/photo-1542401886-65d27afda266?w=800&h=600&fit=crop" 
+          src="https://www.shutterstock.com/image-photo/24-december-2018-lagos-nigeria-bridge-1267004656?trackingId=bf74a3c8-bbaa-4d34-b072-4ab1c2100515&listId=undefined" 
           alt="African landscape and culture"
           loading="lazy"
         />
