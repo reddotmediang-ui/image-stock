@@ -267,84 +267,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-1',
         title: 'Market 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2189325716/video/christmas-shopping-rush-in-lagos.jpg?s=640x640&k=20&c=sxYuuUIyLT4xfSWfO2Wyvq8cS5sl3ThMQppu35RJr5o=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-2',
         title: 'Market 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2188890182/video/open-market-environment-in-lagos.jpg?s=640x640&k=20&c=GA9CHjmJftXHIrNHiK41Q9JH6ZOoitjFX0KMH36fd-c=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-3',
         title: 'Market 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1582297922/video/ile-epo-road-located-close-to-ile-epo-market-in-agege-lagos-nigeria.jpg?s=640x640&k=20&c=F4IMeumO5Vz_xH2fXgTtjWyVonsDfMEr2STqwAllefE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-4',
         title: 'Market 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1648305956/video/aerial-view-of-alagbole-market-in-ogun.jpg?s=640x640&k=20&c=TCVEwGtvkjzJeFTGQpZJf_xwdTtegojuqCthogAqwJ8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-5',
         title: 'Market 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1648305956/video/aerial-view-of-alagbole-market-in-ogun.jpg?s=640x640&k=20&c=TCVEwGtvkjzJeFTGQpZJf_xwdTtegojuqCthogAqwJ8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-6',
         title: 'Market 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1881044443/video/23-december-2023-lagos-nigeria-pedestrians-moving-inside-a-market.jpg?s=640x640&k=20&c=qC9ET4Q7QgXqpvIziaKv2ZHz084Z8ZV4Bc75MANHyAU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-7',
         title: 'Market 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1881040354/video/23-december-2023-lagos-nigeria-item-display-market-traders-and-customer-in-abuelegba-lagos.jpg?s=640x640&k=20&c=iKGO1df597GLPnmIaPnKRgcCaQqGBRdVtgmnP3yhbsI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1881040354/video/23-december-2023-lagos-nigeria-item-display-market-traders-and-customer-in-abuelegba-lagos.mp4?s=mp4-640x640-gi&k=20&c=-LMNdBBABMepxkS33ao5S7YRupVX-aOFk8Vk_WCYsQI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-9',
         title: 'Market 9',
-        thumb: 'insert image link',
+        thumb: 'ihttps://media.gettyimages.com/id/2175300462/video/market-environment-in-lagos.mp4?s=mp4-640x640-gi&k=20&c=aqqITY9AC5rjOkL_TSISFpVxJ_mzZxj7suN-7oPGoEM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: 'insert image link',
+        thumb: 'ihttps://media.gettyimages.com/id/2191599191/video/daily-life-routines-at-market-environment.mp4?s=mp4-640x640-gi&k=20&c=y-97aCBce9btTrOnaKRUk0LVDzEPrgcJaruy-CQXsm8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-11',
         title: 'Market 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2188966613/video/warehouse-market-environment.mp4?s=mp4-640x640-gi&k=20&c=9HE0QmJOIsAl_HO3hsdup-ZKZV3Qwse0h7GQmK5T1yE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-12',
         title: 'Market 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2166094575/video/open-market-setting-in-day-light.mp4?s=mp4-640x640-gi&k=20&c=G1_jsfrRWBLL5BMIi5_XoQW0QMXOYFC8JIBHFCf3suk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
