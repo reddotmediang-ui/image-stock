@@ -190,70 +190,70 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-3',
         title: 'Transportation 3',
-        thumb: 'https://videos.pond5.com/bus-station-lagos-nigeria-footage-249149886_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2174484931/video/city-life-in-ogun-state-nigeria.jpg?s=640x640&k=20&c=JePdvCqugXlWkyHtKWqO5PNL61I58HuyvDivbuYt978=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-4',
         title: 'Transportation 4',
-        thumb: 'https://videos.pond5.com/lagos-roads-and-transportation-nigeria-footage-249168220_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/1648191861/video/lagos-road-people-and-vehicular-movements.jpg?s=640x640&k=20&c=t6i_vfL2MjfVBI2yU3dF_VZjgYmdeOYrTzxxC7X5aQw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-5',
         title: 'Transportation 5',
-        thumb: 'https://videos.pond5.com/young-mechanic-boys-working-commercial-footage-249148495_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/1582303019/video/ile-epo-road-located-close-to-ile-epo-market-in-agege-lagos-nigeria.jpg?s=640x640&k=20&c=YHF-Zgt9PzyUsP0drBQYzoCvVnfz9A5Vm4sY7QE4SSk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-6',
         title: 'Transportation 6',
-        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249167397_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2180907574/video/aerial-perspective-of-growth-and-development.jpg?s=640x640&k=20&c=Ng82YSWnwxXsUU8SlCVjrsKgAu8oAJXc89a6RQYte3U=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-7',
         title: 'Transportation 7',
-        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249163230_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2178265851/video/aerial-view-of-ekiti.jpg?s=640x640&k=20&c=aXJcT0bVfSI8M1A3GG29jf2KKvVZIFzZryFIUiicjoI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-8',
         title: 'Transportation 8',
-        thumb: 'https://videos.pond5.com/life-ogun-state-nigeria-footage-249169946_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2162913079/video/urban-life-in-lagos.jpg?s=640x640&k=20&c=p5rNZmcBX889Yp3vGPyoYDyvnC4xKMBIiHMlTlRAJJ4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-9',
         title: 'Transportation 9',
-        thumb: 'https://videos.pond5.com/lagos-bus-transportation-bus-stop-footage-249149888_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/1648104736/video/lagos-people-and-vehicular-movements.jpg?s=640x640&k=20&c=nlMzo0A4EluTBmMX5Y27BMTuRIedBMfrlhIMOoq2HsA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-10',
         title: 'Transportation 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1582262127/video/agege-area-in-lagos-nigeria.jpg?s=640x640&k=20&c=hgEtROSW90PWkftSvAfgpjGJylAG_luCAyEIRHoRjjY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-11',
         title: 'Transportation 11',
-        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249167397_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/2165446410/video/crowd-at-a-fuel-station.jpg?s=640x640&k=20&c=i7FnUfaDb5a_iNTUpk9fLhLZsuzDZegNMRNTGlD8OuI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-12',
         title: 'Transportation 12',
-        thumb: 'https://videos.pond5.com/lagos-roads-and-transportation-nigeria-footage-249164172_main_xxl.mp4',
+        thumb: 'https://media.gettyimages.com/id/1881047005/video/23-december-2023-lagos-nigeria-pedestrians-moving-in-and-out-of-a-market-area-beside-the-road.jpg?s=640x640&k=20&c=qs7mymbIhnS6Dp1WrZzonVXR--S_BiXC3Xa8ITuilxI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
