@@ -316,7 +316,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: 'https://media.gettyimages.com/id/2261513557/video/aerial-view-of-developing-urban-environment.mp4?s=mp4-640x640-gi&k=20&c=cGN2LN-OBs759xBCRnBwXJXlEqcbfrbqyOwKEclC3fk=',
+        thumb: 'https://media.gettyimages.com/id/1387605497/video/market-place.mp4?s=mp4-640x640-gi&k=20&c=TfjDdlW_oqlh1kW34YJE9n4h0zBP72z0BEl7ZGFSqZw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
