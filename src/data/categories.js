@@ -84,7 +84,7 @@ export const videoCategories = [
     slug: 'lifestyle',
     title: 'Lifestyle',
     description: 'Daily life and lifestyle content',
-    image: 'https://media.gettyimages.com/id/2141482508/photo/black-young-man-working-remotely-from-home.jpg?s=612x612&w=0&k=20&c=_qgfItuqTLtm6mWZ5KN-5ogfY8ktW-QUeozjiKHkj9Q='
+    image: 'https://media.gettyimages.com/id/2149573150/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=XHgQhTfpnwoN0mz2BeWiRYQphHUXXKfNgGk0eaSXSrA='
   },
   {
     slug: 'transportation',
