@@ -6,7 +6,7 @@ export default function FeaturedGallery() {
     {
       id: 1,
       title: 'Transportation',
-      image: 'https://cdn.builder.io/api/v1/image/assets%2Fc3202d48dbb248c3892278d3847d3169%2Fe400088f041a47f8bcca6237a1764fa1?format=webp&width=800&height=1200',
+      image: 'https://www.shutterstock.com/image-photo/25-may-2023-lagos-nigeria-popular-2308999253?trackingId=935e5004-515d-4f46-b31b-dae294fbc5b6&listId=undefined',
       link: '/images/transportation'
     },
     {
