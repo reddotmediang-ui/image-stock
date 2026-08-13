@@ -54,19 +54,760 @@ export default function VideoCategory({ category, videos }) {
 
 export async function getStaticProps({ params }) {
   const category = getVideoCategory(params.category);
-  
+
   if (!category) {
     return { notFound: true };
   }
 
-  // Placeholder gallery data - replace with real videos
-  const videos = Array.from({ length: 12 }, (_, i) => ({
-    id: `vid-${category.slug}-${i + 1}`,
-    title: `${category.title} ${i + 1}`,
-    thumb: `https://images.unsplash.com/photo-${1550000000000 + i}?w=400&h=225&fit=crop`,
-    url: '#', // Replace with actual stock video URL
-    platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
-  }));
+  // ============================================================
+  // VIDEO GALLERY DATA
+  // 8 categories × 12 video cards = 96 video cards
+  //
+  // Replace:
+  // thumb: 'insert image link'
+  //
+  // with your actual thumbnail URL.
+  //
+  // Replace:
+  // url: '#'
+  //
+  // with the actual Getty Images, Shutterstock,
+  // Adobe Stock or Pond5 video URL when ready.
+  // ============================================================
+
+  const categoryVideos = {
+
+    // ==========================================================
+    // LIFESTYLE
+    // ==========================================================
+
+    lifestyle: [
+      {
+        id: 'lifestyle-1',
+        title: 'Lifestyle 1',
+        thumb: 'https://media.gettyimages.com/id/1425841841/video/lagos-island-street.jpg?s=640x640&k=20&c=cDwtwla0cPLMGePBivM1leej2aC-f8nKEAAM1CpQ7OE=',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-2',
+        title: 'Lifestyle 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-3',
+        title: 'Lifestyle 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-4',
+        title: 'Lifestyle 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-5',
+        title: 'Lifestyle 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-6',
+        title: 'Lifestyle 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-7',
+        title: 'Lifestyle 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-8',
+        title: 'Lifestyle 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-9',
+        title: 'Lifestyle 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-10',
+        title: 'Lifestyle 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-11',
+        title: 'Lifestyle 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'lifestyle-12',
+        title: 'Lifestyle 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // TRANSPORTATION
+    // ==========================================================
+
+    transportation: [
+      {
+        id: 'transportation-1',
+        title: 'Transportation 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-2',
+        title: 'Transportation 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-3',
+        title: 'Transportation 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-4',
+        title: 'Transportation 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-5',
+        title: 'Transportation 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-6',
+        title: 'Transportation 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-7',
+        title: 'Transportation 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-8',
+        title: 'Transportation 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-9',
+        title: 'Transportation 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-10',
+        title: 'Transportation 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-11',
+        title: 'Transportation 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'transportation-12',
+        title: 'Transportation 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // MARKET
+    // ==========================================================
+
+    market: [
+      {
+        id: 'market-1',
+        title: 'Market 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-2',
+        title: 'Market 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-3',
+        title: 'Market 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-4',
+        title: 'Market 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-5',
+        title: 'Market 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-6',
+        title: 'Market 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-7',
+        title: 'Market 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-8',
+        title: 'Market 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-9',
+        title: 'Market 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-10',
+        title: 'Market 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-11',
+        title: 'Market 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'market-12',
+        title: 'Market 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // AERIAL
+    // ==========================================================
+
+    aerial: [
+      {
+        id: 'aerial-1',
+        title: 'Aerial 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-2',
+        title: 'Aerial 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-3',
+        title: 'Aerial 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-4',
+        title: 'Aerial 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-5',
+        title: 'Aerial 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-6',
+        title: 'Aerial 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-7',
+        title: 'Aerial 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-8',
+        title: 'Aerial 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-9',
+        title: 'Aerial 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-10',
+        title: 'Aerial 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-11',
+        title: 'Aerial 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'aerial-12',
+        title: 'Aerial 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // FESTIVAL
+    // ==========================================================
+
+    festival: [
+      {
+        id: 'festival-1',
+        title: 'Festival 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-2',
+        title: 'Festival 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-3',
+        title: 'Festival 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-4',
+        title: 'Festival 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-5',
+        title: 'Festival 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-6',
+        title: 'Festival 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-7',
+        title: 'Festival 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-8',
+        title: 'Festival 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-9',
+        title: 'Festival 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-10',
+        title: 'Festival 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-11',
+        title: 'Festival 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'festival-12',
+        title: 'Festival 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // NATURE
+    // ==========================================================
+
+    nature: [
+      {
+        id: 'nature-1',
+        title: 'Nature 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-2',
+        title: 'Nature 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-3',
+        title: 'Nature 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-4',
+        title: 'Nature 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-5',
+        title: 'Nature 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-6',
+        title: 'Nature 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-7',
+        title: 'Nature 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-8',
+        title: 'Nature 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-9',
+        title: 'Nature 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-10',
+        title: 'Nature 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-11',
+        title: 'Nature 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'nature-12',
+        title: 'Nature 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // TRAVEL
+    // ==========================================================
+
+    travel: [
+      {
+        id: 'travel-1',
+        title: 'Travel 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-2',
+        title: 'Travel 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-3',
+        title: 'Travel 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-4',
+        title: 'Travel 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-5',
+        title: 'Travel 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-6',
+        title: 'Travel 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-7',
+        title: 'Travel 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-8',
+        title: 'Travel 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-9',
+        title: 'Travel 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-10',
+        title: 'Travel 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-11',
+        title: 'Travel 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'travel-12',
+        title: 'Travel 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ],
+
+    // ==========================================================
+    // LANDMARK
+    // ==========================================================
+
+    landmark: [
+      {
+        id: 'landmark-1',
+        title: 'Landmark 1',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-2',
+        title: 'Landmark 2',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-3',
+        title: 'Landmark 3',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-4',
+        title: 'Landmark 4',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-5',
+        title: 'Landmark 5',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-6',
+        title: 'Landmark 6',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-7',
+        title: 'Landmark 7',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-8',
+        title: 'Landmark 8',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-9',
+        title: 'Landmark 9',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-10',
+        title: 'Landmark 10',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-11',
+        title: 'Landmark 11',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      },
+      {
+        id: 'landmark-12',
+        title: 'Landmark 12',
+        thumb: 'insert image link',
+        url: '#',
+        platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
+      }
+    ]
+  };
+
+  // Get videos for the current category
+  const videos = categoryVideos[category.slug] || [];
 
   return {
     props: { category, videos },
