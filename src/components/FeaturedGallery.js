@@ -18,25 +18,25 @@ export default function FeaturedGallery() {
     {
       id: 3,
       title: 'Lifestyle',
-      image: 'https://images.unsplash.com/photo-1516684067409-01f0c0a8ba89?w=400&h=300&fit=crop',
+      image: 'https://www.shutterstock.com/image-photo/man-displaying-joy-happiness-2339160273?trackingId=fbdafe46-a713-4e56-bc7b-508486d3d208&listId=undefined',
       link: '/images/lifestyle'
     },
     {
       id: 4,
       title: 'Nature',
-      image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop',
+      image: 'https://media.gettyimages.com/id/2237820120/photo/macro-view-tiny-moss-plants.jpg?s=612x612&w=0&k=20&c=EIQcuXB-0VcT9m_8eemznlmG8T76uPl-qJ1RNL5H5SE=',
       link: '/images/nature'
     },
     {
       id: 5,
       title: 'Aerial',
-      image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop',
+      image: 'https://www.shutterstock.com/image-photo/plastic-bottle-on-isolated-background-2436999057?trackingId=66dbedfd-bab4-4f8c-a59d-2484f7146f9e&listId=undefined',
       link: '/images/aerial'
     },
     {
       id: 6,
       title: 'Food',
-      image: 'https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=400&h=300&fit=crop',
+      image: 'https://www.shutterstock.com/image-photo/lagos-nigeria-august-11-2016-street-580738447?trackingId=03838478-cdde-4425-9748-52efb0639840&listId=undefined',
       link: '/images/food'
     }
   ];
