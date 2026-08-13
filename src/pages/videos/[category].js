@@ -358,84 +358,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'aerial-1',
         title: 'Aerial 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2283224746/video/aerial-view-of-an-artistic-building.jpg?s=640x640&k=20&c=iDpBh90ScsbIuhdtXTR3oHI-eAQvvjeP530H_KjosX8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-2',
         title: 'Aerial 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2288337835/video/young-man-using-a-drone-controller-paired-to-a-mobile-phone.jpg?s=640x640&k=20&c=E3jps4rWy3lTN-VRrZfZ72LFZrQHzSowL2vZqCxDSDU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-3',
         title: 'Aerial 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2279211373/video/beautiful-umbrella-aerial-view-of-an-open-market.jpg?s=640x640&k=20&c=T_f-PKUTFaP0T92szN1UmxE7JB_jW75h6V_ZupaFzxo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-4',
         title: 'Aerial 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234565786/video/aerial-view-of-lagos-island.jpg?s=640x640&k=20&c=n1QGC-qy-hMvfaHBUrqluXSjNu79wbN6eniDwAAMr0s=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-5',
         title: 'Aerial 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2261081173/video/aerial-view-of-urban-environment.jpg?s=640x640&k=20&c=3mWojhuOTa8z7oWYIbl8EXM0jQiyawMt-TpDoCAAE94=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-6',
         title: 'Aerial 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2221664857/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=NXVrPEFQZQy9qaxzgVnMecePTvC1xx9jHVyqPVwtni4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-7',
         title: 'Aerial 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2283181699/video/train-track-and-train-station.jpg?s=640x640&k=20&c=19yTgL3gqkNoBbMv09IKzyba1V9OJ80-Obp40mkT9Ng=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-8',
         title: 'Aerial 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2279213283/video/road-transportation-and-urban-life-in-nigeria.jpg?s=640x640&k=20&c=uMgBhby2gFXnUa2juRzIR6BNuLr40cwBK9e0fyOcSaI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-9',
         title: 'Aerial 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2279214715/video/train-transportation-in-nigeria.jpg?s=640x640&k=20&c=ZbDiMNs30Tf2TR0fpR3-5PoCH35WGnQw_Eyn6c1kEAE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-10',
         title: 'Aerial 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2279214818/video/urban-life-in-nigeria.jpg?s=640x640&k=20&c=QKNNAiT3wJCTq1SWccm3i9JPH6L4O7qB9KhNrKIdykI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-11',
         title: 'Aerial 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2276615532/video/aerial-view-of-ojodu-area.jpg?s=640x640&k=20&c=HNb2cvoRXz68paduZ5DR-1Av5-wDIfZ6bSQVzuGi1-A=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-12',
         title: 'Aerial 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2272567183/video/aerial-view-of-ojodu-area.jpg?s=640x640&k=20&c=U_y50pzDEbUgpCAxMt9wHS9RmI4rKXZRf8B17Hd_-Aw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
