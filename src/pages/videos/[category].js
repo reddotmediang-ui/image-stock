@@ -99,7 +99,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-3',
         title: 'Lifestyle 3',
-        thumb: 'https://www.gettyimages.com/detail/video/cultural-celebration-of-igbo-tribe-stock-footage/2282941062?slot=18',
+        thumb: 'https://media.gettyimages.com/id/1708868246/video/19-august-2023-lagos-nigera-hausa-man-having-breakfast-at-morning-among-a-group-of-people-in.jpg?s=640x640&k=20&c=Fftx66od3tniq0ewNSgaVOH6WJ28KJCtKxH3XcJei5M=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -134,7 +134,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-8',
         title: 'Lifestyle 8',
-        thumb: 'https://www.gettyimages.com/detail/video/cultural-celebration-of-igbo-tribe-stock-footage/2282940042?slot=115',
+        thumb: 'https://media.gettyimages.com/id/1648056273/video/people-using-an-atm-outdoor.jpg?s=640x640&k=20&c=vpF-1DBAAwtZnKaZwH6DDiV2lPpURpz6iAU87AeXdZA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -148,14 +148,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-10',
         title: 'lifestyle 10',
-        thumb: 'https://www.gettyimages.com/detail/video/fuel-price-display-at-a-refueling-station-stock-footage/2266656219?slot=228',
+        thumb: 'https://media.gettyimages.com/id/2178959334/video/people-at-a-refuel-station.jpg?s=640x640&k=20&c=4W4a5HP85-CfPPUkX6lGVp9BKnhcy5eJk9ZEealTazM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-11',
         title: 'lifestyle 11',
-        thumb: 'https://www.gettyimages.com/detail/video/shoe-cobbler-repairing-a-shoe-stock-footage/2260012110?slot=250',
+        thumb: 'https://media.gettyimages.com/id/2204759872/video/electrical-meters-for-reading-power-consumption.jpg?s=640x640&k=20&c=FiEugy07v9uAgJYLfC8UYVvocdkrv78-pdhPSNMpk8s=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
