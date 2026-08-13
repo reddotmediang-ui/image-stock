@@ -323,14 +323,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-9',
         title: 'Market 9',
-        thumb: 'ihttps://media.gettyimages.com/id/2175300462/video/market-environment-in-lagos.mp4?s=mp4-640x640-gi&k=20&c=aqqITY9AC5rjOkL_TSISFpVxJ_mzZxj7suN-7oPGoEM=',
+        thumb: 'https://media.gettyimages.com/id/2175300462/video/market-environment-in-lagos.mp4?s=mp4-640x640-gi&k=20&c=aqqITY9AC5rjOkL_TSISFpVxJ_mzZxj7suN-7oPGoEM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: 'ihttps://media.gettyimages.com/id/2191599191/video/daily-life-routines-at-market-environment.mp4?s=mp4-640x640-gi&k=20&c=y-97aCBce9btTrOnaKRUk0LVDzEPrgcJaruy-CQXsm8=',
+        thumb: 'https://media.gettyimages.com/id/2191599191/video/daily-life-routines-at-market-environment.mp4?s=mp4-640x640-gi&k=20&c=y-97aCBce9btTrOnaKRUk0LVDzEPrgcJaruy-CQXsm8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
