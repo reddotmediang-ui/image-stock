@@ -316,7 +316,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: 'https://media.gettyimages.com/id/1881040354/video/23-december-2023-lagos-nigeria-item-display-market-traders-and-customer-in-abuelegba-lagos.mp4?s=mp4-640x640-gi&k=20&c=-LMNdBBABMepxkS33ao5S7YRupVX-aOFk8Vk_WCYsQI=',
+        thumb: 'https://media.gettyimages.com/id/2261513557/video/aerial-view-of-developing-urban-environment.mp4?s=mp4-640x640-gi&k=20&c=cGN2LN-OBs759xBCRnBwXJXlEqcbfrbqyOwKEclC3fk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
