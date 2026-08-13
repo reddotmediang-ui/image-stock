@@ -92,41 +92,41 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-2',
         title: 'Lifestyle 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1425846874/video/lagos-island-street.jpg?s=640x640&k=20&c=noOsKnr-gqtjhRLSXmdQ0r7ENnFIHMvtsOGL5I9nSy0=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-3',
         title: 'Lifestyle 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/cultural-celebration-of-igbo-tribe-stock-footage/2282941062?slot=18',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-4',
         title: 'Lifestyle 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1361609771/video/palm-oil-extraction-from-a-local-processing-business-in-iju-itaogbolu-akure-north-of-ondo.jpg?s=640x640&k=20&c=W0t80v_vNB-i7ToQE4aDFzKw7MCUx22i6uKGy9ALQV4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-5',
         title: 'Lifestyle 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1387621932/video/market-place-in-nigeria.jpg?s=640x640&k=20&c=qCDGrJfI-rhteEDuAb2vdeaoCl_gQNvi1v9bJnke9c4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-6',
         title: 'Lifestyle 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222371847/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=Kg_20LluQN1pSKGPwHKlsI1dVbrC3wCZxSBYppB7YEk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-7',
-        title: 'Lifestyle 7',
+        title: 'https://media.gettyimages.com/id/2289570762/video/slow-mo-cinematic-moments-of-a-young-lady-jumping-and-dancing-on-a-beach.jpg?s=640x640&k=20&c=MxxabW5VbtOS_TKBYr_Qhu-dc2m7Q8kBhBLUrWm6DJE=',
         thumb: 'insert image link',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
@@ -134,34 +134,34 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-8',
         title: 'Lifestyle 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/cultural-celebration-of-igbo-tribe-stock-footage/2282940042?slot=115',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-9',
-        title: 'Lifestyle 9',
+        title: 'https://media.gettyimages.com/id/2265582440/video/fishermen-on-a-canoe.jpg?s=640x640&k=20&c=OWDy8GsqOum4xw3V_MujkH0clstVMkbpkzqb66MSyJ8=',
         thumb: 'insert image link',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-10',
-        title: 'Lifestyle 10',
+        title: 'https://www.gettyimages.com/detail/video/fuel-price-display-at-a-refueling-station-stock-footage/2266656219?slot=228',
         thumb: 'insert image link',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-11',
-        title: 'Lifestyle 11',
+        title: 'https://www.gettyimages.com/detail/video/shoe-cobbler-repairing-a-shoe-stock-footage/2260012110?slot=250',
         thumb: 'insert image link',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-12',
-        title: 'Lifestyle 12',
+        title: 'https://media.gettyimages.com/id/2258534016/video/footage-of-a-market-scene.jpg?s=640x640&k=20&c=Dw3_YJKj0bwX4v67wsb8sPGaSFfeusNdDMj7iAVNO6o=',
         thumb: 'insert image link',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
