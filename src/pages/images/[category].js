@@ -66,7 +66,7 @@ export async function getStaticProps({ params }) {
     thumb: category.slug === 'transportation' && i === 0
       ? 'https://cdn.builder.io/api/v1/image/assets%2Fc3202d48dbb248c3892278d3847d3169%2F4efababb713847a2bf332e3eeb7e9e3f?format=webp&width=800&height=1200'
       : `https://images.unsplash.com/photo-${1550000000000 + i}?w=400&h=400&fit=crop`,
-    url: 'https://media.gettyimages.com/id/2283463824/photo/beautiful-architectural-structure-with-lush-green-environment.jpg?s=612x612&w=0&k=20&c=6ZFj66EEFDMaWbVsm0sJuH3I-_53lhyD2ykXDkIVDdY=', // Replace with actual stock photo URL
+    url: '#', // Replace with actual stock photo URL
     platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
   }));
 
