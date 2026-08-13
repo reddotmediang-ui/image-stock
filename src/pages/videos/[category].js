@@ -126,8 +126,8 @@ export async function getStaticProps({ params }) {
       },
       {
         id: 'lifestyle-7',
-        title: 'https://media.gettyimages.com/id/2289570762/video/slow-mo-cinematic-moments-of-a-young-lady-jumping-and-dancing-on-a-beach.jpg?s=640x640&k=20&c=MxxabW5VbtOS_TKBYr_Qhu-dc2m7Q8kBhBLUrWm6DJE=',
-        thumb: 'insert image link',
+        title: 'lifestyle 7',
+        thumb: 'https://media.gettyimages.com/id/2289570762/video/slow-mo-cinematic-moments-of-a-young-lady-jumping-and-dancing-on-a-beach.jpg?s=640x640&k=20&c=MxxabW5VbtOS_TKBYr_Qhu-dc2m7Q8kBhBLUrWm6DJE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -140,29 +140,29 @@ export async function getStaticProps({ params }) {
       },
       {
         id: 'lifestyle-9',
-        title: 'https://media.gettyimages.com/id/2265582440/video/fishermen-on-a-canoe.jpg?s=640x640&k=20&c=OWDy8GsqOum4xw3V_MujkH0clstVMkbpkzqb66MSyJ8=',
-        thumb: 'insert image link',
+        title: 'lifestyle 9',
+        thumb: 'https://media.gettyimages.com/id/2265582440/video/fishermen-on-a-canoe.jpg?s=640x640&k=20&c=OWDy8GsqOum4xw3V_MujkH0clstVMkbpkzqb66MSyJ8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-10',
-        title: 'https://www.gettyimages.com/detail/video/fuel-price-display-at-a-refueling-station-stock-footage/2266656219?slot=228',
-        thumb: 'insert image link',
+        title: 'lifestyle 10',
+        thumb: 'https://www.gettyimages.com/detail/video/fuel-price-display-at-a-refueling-station-stock-footage/2266656219?slot=228',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-11',
-        title: 'https://www.gettyimages.com/detail/video/shoe-cobbler-repairing-a-shoe-stock-footage/2260012110?slot=250',
-        thumb: 'insert image link',
+        title: 'lifestyle 11',
+        thumb: 'https://www.gettyimages.com/detail/video/shoe-cobbler-repairing-a-shoe-stock-footage/2260012110?slot=250',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-12',
-        title: 'https://media.gettyimages.com/id/2258534016/video/footage-of-a-market-scene.jpg?s=640x640&k=20&c=Dw3_YJKj0bwX4v67wsb8sPGaSFfeusNdDMj7iAVNO6o=',
-        thumb: 'insert image link',
+        title: 'lifestyle 12',
+        thumb: 'https://media.gettyimages.com/id/2253744886/video/creative-traditional-festival-called-eyo-in-lagos-nigeria.jpg?s=640x640&k=20&c=KRUY4X9FTpqROFxOFOEXn_pUkw5MuhGf8ofy5rxiPhs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
