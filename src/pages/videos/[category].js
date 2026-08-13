@@ -541,84 +541,84 @@ export async function getStaticProps({ params }) {
         id: 'nature-1',
         title: 'Nature 1',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2253861048/video/aerial-view-of-a-beach-in-lagos-nigeria.jpg?s=640x640&k=20&c=eMYonU08chWOgTfB5MIchA1HbfCg4vMlkCZP4YfBidw=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-2',
         title: 'Nature 2',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2253855996/video/aerial-view-of-a-beach-in-lagos-nigeria.jpg?s=640x640&k=20&c=34tIydZGm9uUesqmenxNtHeq13O7Vv3TSPHmHMgUnNI=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-3',
         title: 'Nature 3',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2253861590/video/aerial-view-of-a-beach-in-lagos-nigeria.jpg?s=640x640&k=20&c=tNXvd0BbbU2vMn4jGE2AiiMIyPjarZTOp63EwPYeZvI=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-4',
         title: 'Nature 4',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2253945239/video/aerial-view-of-a-beach-in-lagos-nigeria.jpg?s=640x640&k=20&c=PdmYAQlK4zEqNgVykvjBTpWb8Ozpe1a0FFgut9OnETQ=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-5',
         title: 'Nature 5',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2252750436/video/aerial-view-of-green-vegetation-and-a-house.jpg?s=640x640&k=20&c=9RyFmAbJizttPYpOAkfqvokx-VG87w04D8x9Idwmnk4=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-6',
         title: 'Nature 6',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2253120150/video/aerial-view-of-lagos-island.jpg?s=640x640&k=20&c=RumHaKbL-20UlSDvgrEK8PHcxGgQRzdF9k7yoo7nmEA=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-7',
         title: 'Nature 7',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2237664906/video/aerial-view-of-lush-vegetation.jpg?s=640x640&k=20&c=Ae0gQBBvdQ5MtvTycfLPSBF0QlrfqXQLRRzvZ4a2gVg=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-8',
         title: 'Nature 8',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2221508680/video/landscape-of-skylines-of-lagos-city.jpg?s=640x640&k=20&c=Lv8E_lWkD5cgV66Z51sIrT75PjwW7xQSfQKswacgC7s=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-9',
         title: 'Nature 9',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2189329953/video/bats-habitat-in-lagos.jpg?s=640x640&k=20&c=rntHK1pjoW_r7p_PDhHtDYKZ9TT4K5jJG8jNX5CyjVI=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-10',
         title: 'Nature 10',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2180714157/video/aerial-perspective-of-growth-and-development.jpg?s=640x640&k=20&c=U-zWaSprWMuRPOyiaP7BDt1MzOs2t7vhJ_Kj5cSVoic=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-11',
         title: 'Nature 11',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2182592985/video/outdoor-park-area-in-ekiti.jpg?s=640x640&k=20&c=yu0fLje287YHeVaaJsUEWset9c7HQmORhIDgzsNtyAU=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-12',
         title: 'Nature 12',
         thumb: 'insert image link',
-        url: '#',
+        url: 'https://media.gettyimages.com/id/2170828687/video/horizontal-video-of-green-vegetation.jpg?s=640x640&k=20&c=ORpttwbv8uJHjM_78f2xecO6KZ75AoZqIjgQFD1Zc6w=',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
     ],
