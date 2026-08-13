@@ -176,63 +176,63 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-1',
         title: 'Transportation 1',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/people-at-a-refuel-station-stock-footage/2178960435?slot=598',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/people-and-transportation-ikorodu-footage-249150729_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-3',
         title: 'Transportation 3',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/bus-station-lagos-nigeria-footage-249149886_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-4',
         title: 'Transportation 4',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/lagos-roads-and-transportation-nigeria-footage-249168220_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-5',
         title: 'Transportation 5',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/young-mechanic-boys-working-commercial-footage-249148495_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-6',
         title: 'Transportation 6',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249167397_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-7',
         title: 'Transportation 7',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249163230_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-8',
         title: 'Transportation 8',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/life-ogun-state-nigeria-footage-249169946_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-9',
         title: 'Transportation 9',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/lagos-bus-transportation-bus-stop-footage-249149888_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -246,14 +246,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-11',
         title: 'Transportation 11',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/traffic-congestion-lagos-roads-footage-249167397_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-12',
         title: 'Transportation 12',
-        thumb: 'insert image link',
+        thumb: 'https://videos.pond5.com/lagos-roads-and-transportation-nigeria-footage-249164172_main_xxl.mp4',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
