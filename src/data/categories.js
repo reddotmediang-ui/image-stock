@@ -84,7 +84,7 @@ export const videoCategories = [
     slug: 'lifestyle',
     title: 'Lifestyle',
     description: 'Daily life and lifestyle content',
-    image: 'https://media.gettyimages.com/id/2149573150/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=XHgQhTfpnwoN0mz2BeWiRYQphHUXXKfNgGk0eaSXSrA='
+    image: 'https://media.gettyimages.com/id/2118320041/photo/portrait-expressions-on-a-green-isolated-background.jpg?s=612x612&w=0&k=20&c=d8zme9mbCol0HmJb5kUj2hociSn5YoSgM3o3Cv4O5w4='
   },
   {
     slug: 'transportation',
