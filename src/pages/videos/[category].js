@@ -323,14 +323,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-9',
         title: 'Market 9',
-        thumb: '',
+        thumb: 'https://media.gettyimages.com/id/1387592929/video/market-place.jpg?s=640x640&k=20&c=FzZkFT0VRoYuouWnJcfTrxilkAVrGACUklK_RklS4Js=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: '',
+        thumb: 'https://media.gettyimages.com/id/1387605497/video/market-place.jpg?s=640x640&k=20&c=icFUsIob7O0bK4lVzS0TI161J2u0V9uLNahAjC7wBs4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
