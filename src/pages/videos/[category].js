@@ -631,28 +631,28 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-1',
         title: 'Travel 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1425846046/video/cathedral-church-of-christ.jpg?s=640x640&k=20&c=DQrOC8XSfSxR46WOwJXzP-TuNaJsy7E7AuEbJqAuBuc=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-2',
         title: 'Travel 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2282905822/video/cultural-celebration-of-igbo-tribe.jpg?s=640x640&k=20&c=CXwMzarp-H7t9tgFP1uWy-UQEIwqFg37O_spBJBS8iA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-3',
         title: 'Travel 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253738661/video/creative-traditional-festival-called-eyo-in-lagos-nigeria.jpg?s=640x640&k=20&c=RrIxq3l-GHoABm0WttGtrE1j3Gjj00MPyNYC-NXtSGA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-4',
         title: 'Travel 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234279925/video/aerial-view-a-community-with-lush-vegetation.jpg?s=640x640&k=20&c=hLcJaE6Ss9tJTFN_S0nOmcdyiHejxPcNkwZAjc5ePAE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -666,49 +666,49 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-6',
         title: 'Travel 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234310925/video/group-of-african-people-drummers-and-performers.jpg?s=640x640&k=20&c=UGwD01HSyV1V00RkTnYkC_49Sf8eMSFfI2It2HPS-4I=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-7',
         title: 'Travel 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222374945/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=hmdtRL9B6OW-gfAZFmXik_fAtBXFbibBfFa6rCznoJE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-8',
         title: 'Travel 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234304816/video/african-drummers-and-performers.jpg?s=640x640&k=20&c=WfwissE3C4OjdOdIiuwlvkXwBmEyFs3iiGSauIFCP70=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-9',
         title: 'Travel 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2221677694/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=bnVRpt2M-cs--VNK93LD1sgjJvhAU3m-_t8fZMbrdvY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-10',
         title: 'Travel 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2222374429/video/annual-colourful-ancient-festival.jpg?s=640x640&k=20&c=2-DAjfGcM3H8sPzXf7oMhFhUH33KqKdMVX7NYImR7iw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-11',
         title: 'Travel 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2189325224/video/christmas-shopping-rush-in-lagos.jpg?s=640x640&k=20&c=pNQeFEm2bHf_QPKztPYZ-nO0kFDCUWX7Pe11O1VUDyY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-12',
         title: 'Travel 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1434627802/video/commercial-streets-of-lagos.jpg?s=640x640&k=20&c=tIoFGsvaQVL11ZhKp0HDMCI47SpNakMVjpt09mxOMLA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
