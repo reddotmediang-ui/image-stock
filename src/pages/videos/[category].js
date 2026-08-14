@@ -722,28 +722,28 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-1',
         title: 'Landmark 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2283180763/video/aerial-view-of-an-artistic-building.jpg?s=640x640&k=20&c=vdtKIBLH_8VgsapMRxshmqq8gKWPWcUuAwIF21nmjts=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-2',
         title: 'Landmark 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2179012620/video/modern-bus-terminal-and-parking-system.jpg?s=640x640&k=20&c=MQQPLRIBR-k5HvVR_Lr14VeGV35HY49cSA-HfOIrkfg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-3',
         title: 'Landmark 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2162918071/video/daylight-market-on-the-side-of-roads.jpg?s=640x640&k=20&c=2S5u-9ascSXaZv4tQUCN8EuZcndHwgF_bIbE1jovIWQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-4',
         title: 'Landmark 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2180907046/video/aerial-perspective-of-growth-and-development.jpg?s=640x640&k=20&c=zgwJQB-rIx1dretebazunYir6Wo6hI7hANRfFosdyug=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
