@@ -568,7 +568,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'nature-5',
         title: 'Nature 5',
-        thumb: 'https://media.gettyimages.com/id/1422136069/video/footage-of-green-nigerian-passport.jpg?s=640x640&k=20&c=KCaaoROYBsU7Bl_MErPOPyH-7UN5YYvhUXsBAJiJ_gc=',
+        thumb: 'https://media.gettyimages.com/id/2182239112/video/waterfall-in-ekiti-nigeria.jpg?s=640x640&k=20&c=SxgrVhQ1dqc0TZm20w6aMitomrZTXD5E71g3k4gAKL4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -659,7 +659,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-5',
         title: 'Travel 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2111417401/video/lagos-city-life-nigeria.jpg?s=640x640&k=20&c=n_Dnjus1Iz6k2HDaxgbiqyIDJe9bpovtTvnbcLzXWZU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
