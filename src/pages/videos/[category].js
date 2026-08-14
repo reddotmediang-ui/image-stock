@@ -750,42 +750,42 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-5',
         title: 'Landmark 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2265582821/video/fishermen-on-a-canoe.jpg?s=640x640&k=20&c=5kQXqtyMCCOq0xBxSkS_a5BjQsMP_2chLHFVLFAES64=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-6',
         title: 'Landmark 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2262539700/video/means-of-transportation-in-lagos.jpg?s=640x640&k=20&c=BEgcAVmccv7Pzo8eERONQFnuGVGyS3srXZnApJmA7q4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-7',
         title: 'Landmark 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253744407/video/creative-traditional-festival-called-eyo-in-lagos-nigeria.jpg?s=640x640&k=20&c=2zo0F4K5Fzr-VZKnTStXv6g00V_yQiqz9sXqbSnogEE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-8',
         title: 'Landmark 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2237664906?slot=402',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-9',
         title: 'Landmark 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2234272739?slot=395',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-10',
         title: 'Landmark 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2234272739?slot=395',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
