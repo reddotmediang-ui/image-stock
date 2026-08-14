@@ -568,7 +568,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'nature-5',
         title: 'Nature 5',
-        thumb: 'https://media.gettyimages.com/id/1361732470/video/palm-oil-processing-in-akure.jpg?s=640x640&k=20&c=4jEF3WraeKnrSXsMkO1OeQJ5dvlwhKZZrBtkFZ5y8Fw=',
+        thumb: 'https://media.gettyimages.com/id/1422136069/video/footage-of-green-nigerian-passport.jpg?s=640x640&k=20&c=KCaaoROYBsU7Bl_MErPOPyH-7UN5YYvhUXsBAJiJ_gc=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
