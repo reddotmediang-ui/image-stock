@@ -245,49 +245,49 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-1',
         title: 'Lifestyle 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1960087037/photo/young-fashion-designer-at-work.jpg?s=612x612&w=0&k=20&c=y6k08V-4UCiKfW7glmlCfl0r1KGdQIhTtAu6I-EXEOg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-2',
         title: 'Lifestyle 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1942129095/photo/back-to-school-preparation.jpg?s=612x612&w=0&k=20&c=HwjBKUa_wHuFGpfA6xW0lXRfodFpBA9PsDUVdhYDmmM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-3',
         title: 'Lifestyle 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1452932063/photo/friendly-looking-lady-on-white-medical-outfit.jpg?s=612x612&w=0&k=20&c=BHQwtnYSMMyJQFZC4DaFbD-nelilT1MloZAjkzqkI1k=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-4',
         title: 'Lifestyle 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1452928057/photo/happy-lady-on-bright-outfit-and-afro-hair.jpg?s=612x612&w=0&k=20&c=xFbIlsXTpET6ERziJM43SPp3hcHQdXy6bH-c7q_bXmU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-5',
         title: 'Lifestyle 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2141870057/photo/young-man-using-technology-device.jpg?s=612x612&w=0&k=20&c=UpQKYzeNQ7AcFdI5e4XL4_BJMAAln4cq5hS-Y975BDM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-6',
         title: 'Lifestyle 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2278673873/photo/kids-in-the-park.jpg?s=612x612&w=0&k=20&c=oUrimNUiD2mJ73pUWhuaYf4cfA1HNm6SJg7PxqfZ4mE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-7',
         title: 'Lifestyle 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2278673841/photo/kid-in-the-park.jpg?s=612x612&w=0&k=20&c=orj1fTShnDOQ4WHkaFx_hhVVQP_3wZQHxqd_10CLFZY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -301,28 +301,28 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-9',
         title: 'Lifestyle 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2278673980/photo/kid-in-the-park.jpg?s=612x612&w=0&k=20&c=MxZyDHT0mdNAX9ZNawflzA3O7thOceWuILkdSqsGpPY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-10',
         title: 'Lifestyle 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/919803198/photo/unicycle.jpg?s=612x612&w=0&k=20&c=DrZonX1C0Tw-F0x2f-HoMcvu4gieUcgJYZbGpInRyHI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-11',
         title: 'Lifestyle 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2142823708/photo/young-man-working-from-the-comfort-of-his-home.jpg?s=612x612&w=0&k=20&c=nqKzqESDLqMxXvQ7P1kFwZgaj88AdblsTBKbHT_zO3Y=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'lifestyle-12',
         title: 'Lifestyle 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2204211877/photo/music-professional-playing-guitar.jpg?s=612x612&w=0&k=20&c=Sca7gn0qjaSUTZLwwF5iwFfSb_MPKC6pcYzbArPJ1zY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
