@@ -778,7 +778,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-9',
         title: 'Landmark 9',
-        thumb: 'https://media.gettyimages.com/id/1425843480/video/cathedral-church-of-christ.mp4?s=mp4-640x640-gi&k=20&c=7Fc2IGSbcmkEVE2nF_RKody2dPuJtwxRX5TpOLcIbgU=',
+        thumb: 'https://media.gettyimages.com/id/2279214624/video/train-transportation-in-nigeria.jpg?s=640x640&k=20&c=gmpGAcPIbjy7NScgJR56oRQmfnSA-v3GbBQV9uWDWDA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
