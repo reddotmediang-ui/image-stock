@@ -506,42 +506,42 @@ export async function getStaticProps({ params }) {
       {
         id: 'food-1',
         title: 'Food 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2152288407/photo/the-concept-of-choice.jpg?s=612x612&w=0&k=20&c=EES6s39A6j-Y7oWv51-ry2YcvWAVdMjXkxxsd11_ZBY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-2',
         title: 'Food 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2082878686/photo/plastic-filled-with-fresh-tomatoes.jpg?s=612x612&w=0&k=20&c=VJitz4tszOvXo5ZPRhGhP-z8nE5_XX8t3PhWi6oaCaQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-3',
         title: 'Food 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2067506980/photo/juice-in-plastic-on-isolated-background.jpg?s=612x612&w=0&k=20&c=9WLRt69SawKK1fENnldF-aTZJE1Y9fn3_XjYj49aIcY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-4',
         title: 'Food 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2158897384/photo/blue-adhesive-note-for-compliance-campaign.jpg?s=612x612&w=0&k=20&c=cATNOO_kxaRdTgYPu8sW2w8p5SvwkwvMT2-qEOpIDQg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-5',
         title: 'Food 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2162310055/photo/dished-rice-and-soup-in-a-restaurant.jpg?s=612x612&w=0&k=20&c=blqU_oZX4Ea8nsKO1IyWhFkIWC1nJ1M3AtoUnDOshew=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-6',
         title: 'Food 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2355624499/display_1500/stock-photo-display-of-popular-nigerian-green-fruit-called-garden-egg-along-side-grounded-groundnut-inside-a-2355624499.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -555,14 +555,14 @@ export async function getStaticProps({ params }) {
       {
         id: 'food-8',
         title: 'Food 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2152288408/photo/the-concept-of-choice.jpg?s=612x612&w=0&k=20&c=J5W_n4lD7b4sZpRbUGA5vsJkRoPIhMaswUpDQw3ecOs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-9',
         title: 'Food 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1189165963/display_1500/stock-photo--september-lagos-nigeria-a-woman-selling-food-condiments-at-a-local-market-1189165963.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
