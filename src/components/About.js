@@ -36,7 +36,7 @@ export default function About() {
         </section>
 
         <section className={styles.section}>
-          <h2>Our Mission</h2>
+          <h2>Mission</h2>
           <p>
             To celebrate and showcase the visual richness of Africa while providing photographers, videographers, and content creators with accessible, high-quality stock media. We believe in authentic representation and the power of visual storytelling to connect, inspire, and inform audiences around the world.
           </p>

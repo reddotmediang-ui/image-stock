@@ -44,9 +44,9 @@ export default function Contact() {
             Follow us for the latest updates, behind-the-scenes content, and announcements.
           </p>
           <div className={styles.socialLinks}>
-            <a href="#" target="_blank" rel="noopener noreferrer">Instagram</a>
-            <a href="#" target="_blank" rel="noopener noreferrer">Twitter</a>
-            <a href="#" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.instagram.com/studioworxmotions/" target="_blank" rel="noopener noreferrer">Instagram</a>
+            <a href="https://x.com/sunkanmiariyor" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <a href="https://www.linkedin.com/in/olasunkanmiariyo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </section>
       </div>
