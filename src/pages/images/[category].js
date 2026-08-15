@@ -854,84 +854,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'business-1',
         title: 'Business 1',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2308947879/display_1500/stock-photo-business-woman-using-a-phone-at-the-backseat-of-a-car-2308947879.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-2',
         title: 'Business 2',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2269908945/display_1500/stock-photo-a-professional-tailor-in-her-work-environment-2269908945.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-3',
         title: 'Business 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2270018369/display_1500/stock-photo-a-young-fashion-stylist-holding-her-phone-2270018369.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-4',
         title: 'Business 4',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2269223603/display_1500/stock-photo--february-ogun-state-nigeria-a-professional-tailor-operating-an-electric-sewing-machine-2269223603.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-5',
         title: 'Business 5',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2308944245/display_1500/stock-photo-lady-wearing-african-styled-wear-in-an-office-environment-2308944245.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-6',
         title: 'Business 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2339159111/display_1500/stock-photo-a-man-having-a-phone-conversation-2339159111.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-7',
         title: 'Business 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1976143629/photo/interacting-with-technology.jpg?s=612x612&w=0&k=20&c=g-RK_8_UXjFF9JyNFH08HkpRdBP653xEnITqV3MgYHs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-8',
         title: 'Business 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1453678457/photo/young-lady-holding-a-mobile-phone.jpg?s=612x612&w=0&k=20&c=oYxvQslNVjk2dRJ_dcQKzhhdjzp6PjyJNmFKIzf5qkg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-9',
         title: 'Business 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/photo/self-portrait-of-a-business-owner-royalty-free-image/2159863832?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=889',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-10',
         title: 'Business 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2166848829/photo/magnified-miniature-chess-pieces.jpg?s=612x612&w=0&k=20&c=wGKyJMUD9W2MrgoYsqCdrI3jbdl-frDaY5ucQ_ZBwbY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-11',
         title: 'Business 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2166846334/photo/magnified-miniature-chess-pieces.jpg?s=612x612&w=0&k=20&c=NF9VUdko0LZFPAE_HSIYeyS5qIgGOHTytB3SEElIzRs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'business-12',
         title: 'Business 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149572951/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=jxOkx1PyJshq3uS6Iadhrnaysl6RBJwzBYe-HoZ87zs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
@@ -941,84 +941,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'religion-1',
         title: 'Religion 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2173586240/photo/man-reading-a-bible-verse-from-a-mobile-app.jpg?s=612x612&w=0&k=20&c=M9t6Fm4HWEdlZbYnUsFyIdsAxIEOpYMNfi2sj-o03hE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-2',
         title: 'Religion 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/926617250/photo/celebration-of-life.jpg?s=612x612&w=0&k=20&c=3tZewdDyXkSdhcVaj2S1tWHOD_mE0Rn-ODK8m0_pGQY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-3',
         title: 'Religion 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/525486409/display_1500/stock-photo-man-praying-in-church-525486409.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-4',
         title: 'Religion 4',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319521907/display_1500/stock-photo--june-akute-ogun-state-praise-and-worship-session-at-the-father-s-house-church-during-2319521907.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-5',
         title: 'Religion 5',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319779819/display_1500/stock-photo--june-akute-ogun-state-worship-and-prayer-session-at-the-father-s-house-church-during-2319779819.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-6',
         title: 'Religion 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319779833/display_1500/stock-photo--june-akute-ogun-state-worship-and-prayer-session-at-the-father-s-house-church-during-2319779833.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-7',
         title: 'Religion 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319779771/display_1500/stock-photo--june-akute-ogun-state-worship-and-prayer-session-at-the-father-s-house-church-during-2319779771.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-8',
         title: 'Religion 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319779709/display_1500/stock-photo--june-akute-ogun-state-worship-and-prayer-session-at-the-father-s-house-church-during-2319779709.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-9',
         title: 'Religion 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319779691/display_1500/stock-photo--june-akute-ogun-state-worship-and-prayer-session-at-the-father-s-house-church-during-2319779691.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-10',
         title: 'Religion 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319556121/display_1500/stock-photo--june-akute-ogun-state-praise-and-worship-session-at-the-father-s-house-church-during-the-2319556121.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-11',
         title: 'Religion 11',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319590067/display_1500/stock-photo--june-akute-ogun-state-praise-and-worship-session-at-the-father-s-house-church-during-the-2319590067.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'religion-12',
         title: 'Religion 12',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2319609803/display_1500/stock-photo--june-akute-ogun-state-praise-and-worship-session-at-the-father-s-house-church-during-2319609803.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
