@@ -593,84 +593,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'nature-1',
         title: 'Nature 1',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2337215385/display_1500/stock-photo-a-green-tree-in-a-sunny-day-2337215385.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-2',
         title: 'Nature 2',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/463068424/display_1500/stock-photo-akure-ondo-state-nigeria-october-man-stands-for-a-portrait-akure-in-ondo-state-463068424.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-3',
         title: 'Nature 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1842920554/display_1500/stock-photo-double-exposure-of-human-and-nature-1842920554.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-4',
         title: 'Nature 4',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1221494596/display_1500/stock-photo--lagos-nigeria-th-october-epe-resort-an-holiday-getaway-location-in-the-scenically-1221494596.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-5',
         title: 'Nature 5',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1221494599/display_1500/stock-photo--lagos-nigeria-th-october-epe-resort-an-holiday-getaway-location-in-the-scenically-1221494599.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-6',
         title: 'Nature 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1844306962/display_1500/stock-photo-multiple-exposure-of-human-hand-and-leaf-1844306962.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-7',
         title: 'Nature 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/459279199/display_1500/stock-photo-akure-459279199.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-8',
         title: 'Nature 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/463068415/display_1500/stock-photo-akure-ondo-state-october-a-rock-along-iju-itaogbolu-road-in-akure-ondo-state-on-463068415.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-9',
         title: 'Nature 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1327257158/display_1500/stock-photo--march-lagos-nigeria-golden-cloud-formation-at-early-morning-hours-in-a-street-at-the-ketu-1327257158.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-10',
         title: 'Nature 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1234422796/display_1500/stock-photo-beautiful-sun-set-1234422796.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-11',
         title: 'Nature 11',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2105906828/display_1500/stock-photo-silhouette-tree-branches-in-the-sky-2105906828.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'nature-12',
         title: 'Nature 12',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1842916666/display_1500/stock-photo-snail-on-a-wet-soil-1842916666.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
