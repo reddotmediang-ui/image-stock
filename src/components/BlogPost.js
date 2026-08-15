@@ -1,6 +1,5 @@
 import styles from '@/styles/BlogPost.module.css';
 import Link from 'next/link';
-import { marked } from 'marked';
 
 export default function BlogPost({ post }) {
   return (
@@ -12,47 +11,24 @@ export default function BlogPost({ post }) {
               <img src={post.image} alt={post.title} />
             </div>
           )}
-
           <h1 className={styles.title}>{post.title}</h1>
-
           <div className={styles.postMeta}>
-            <span className={styles.date}>
-              {new Date(post.date).toLocaleDateString()}
-            </span>
-
-            <span className={styles.author}>
-              By {post.author}
-            </span>
-
-            {post.category && (
-              <span className={styles.category}>
-                {post.category}
-              </span>
-            )}
+            <span className={styles.date}>{new Date(post.date).toLocaleDateString()}</span>
+            <span className={styles.author}>By {post.author}</span>
+            {post.category && <span className={styles.category}>{post.category}</span>}
           </div>
         </div>
-
+        
         <div className={styles.content}>
-          {post.content && (
-            <div
-              dangerouslySetInnerHTML={{
-                __html: marked.parse(post.content)
-              }}
-            />
-          )}
+          {post.content && <div dangerouslySetInnerHTML={{ __html: post.content }} />}
         </div>
 
         {post.relatedPosts && post.relatedPosts.length > 0 && (
           <section className={styles.relatedPosts}>
             <h2>Related Articles</h2>
-
             <div className={styles.relatedGrid}>
               {post.relatedPosts.map(relatedPost => (
-                <Link
-                  key={relatedPost.slug}
-                  href={`/blog/${relatedPost.slug}`}
-                  className={styles.relatedCard}
-                >
+                <Link key={relatedPost.slug} href={`/blog/${relatedPost.slug}`} className={styles.relatedCard}>
                   <h3>{relatedPost.title}</h3>
                   <p>{relatedPost.excerpt}</p>
                 </Link>
