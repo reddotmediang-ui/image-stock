@@ -78,77 +78,77 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'https://media.gettyimages.com/id/1425843042/video/bus-conductor-and-passerby.mp4?s=mp4-640x640-gi&k=20&c=yKZPrYK08A1vKOXYFWBlHDaZw4y7sZRjYdIc6YptJTM=',
+        thumb: 'https://www.gettyimages.com/detail/photo/neighbourhood-watch-royalty-free-image/919803222?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=996',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-3',
         title: 'Transportation 3',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/front-view-truck-photo-249174762_iconl_nowm.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-4',
         title: 'Transportation 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/642210292/photo/lastma-lagos-state-traffic-management-authority.jpg?s=612x612&w=0&k=20&c=MlLiYPyoXkEeLFc4GTnRZ9QQQkUAFW6stiHMCsY7mQo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-5',
         title: 'Transportation 5',
-        thumb: 'insert image link',
+        thumb: 'ihttps://images.pond5.com/vintage-buildings-developed-areas-shot-photo-249174743_iconl_nowm.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-6',
         title: 'Transportation 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2279208495/photo/beautiful-umbrella-aerial-view-of-an-open-market.jpg?s=612x612&w=0&k=20&c=TZKBvz4m-35iAwm17oYRAB0cI1b9W9Zge6s4H8Iq_8o=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-7',
         title: 'Transportation 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2278961406/photo/abandoned-riot-police-vehicle.jpg?s=612x612&w=0&k=20&c=TAYg6A2lJqmrEpeiH6QpvqZ59lfNv1WyxBtUKwTmZ5E=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-8',
         title: 'Transportation 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/642239046/photo/car-park-in-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=PzgdFqQbyal4TZFbgTR75FvKlAfLvF88z-xsFEDxchA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-9',
         title: 'Transportation 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/928999148/photo/lagos-commercial-city.jpg?s=612x612&w=0&k=20&c=w7ZWgEuFqto2jIIXr-bHr31cVw48mfns4eB91R79dGs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-10',
         title: 'Transportation 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/928996870/photo/sea-port-in-marina-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=DbJhETIhPqoZKrVf-ygwR2a1yS3FN6YKe5Xqn0KaV24=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-11',
         title: 'Transportation 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2179499679/photo/aerial-perspective-of-growth-and-development.jpg?s=612x612&w=0&k=20&c=TYSlLZd9sEDIpQhSq_-9jWpvC2ShTGjkuf_sOYlEims=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'transportation-12',
         title: 'Transportation 12',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/street-view-parts-ikorodu-road-photo-249174801_iconl_nowm.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
