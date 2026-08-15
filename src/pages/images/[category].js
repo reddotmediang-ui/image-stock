@@ -158,84 +158,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-1',
         title: 'Market 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1648327629/photo/19-august-2023-lagos-nigeria-display-of-fish-inside-a-tray-in-ajina-market-ikorodu-lagos.jpg?s=612x612&w=0&k=20&c=hPFl9HFmNVZYmMafgcMyeLPIm2d-vUt5G2MiPRDPbnM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-2',
         title: 'Market 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2159863680/photo/small-fashion-business-owner-at-work.jpg?s=612x612&w=0&k=20&c=lo87vajzG_j0d_NSsZ96UywVEJYKZHmVEadVyu_RvmI=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-3',
         title: 'Market 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234146423/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=Y-HtCG41khassM_gXKGpRkUUq-bHsozPB7PTIsIpVMQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-4',
         title: 'Market 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2260786450/photo/aerial-view-of-an-open-market.jpg?s=612x612&w=0&k=20&c=WU2MPBNKBSItbcaOwp9QbQWhmHjSX4v1va4SxaEo-E4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-5',
         title: 'Market 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2159864029/photo/fashion-designer-draping-cloth-on-a-mannequin.jpg?s=612x612&w=0&k=20&c=zLrdStSHUSF53Utxm6-prv9FY2EquIVGKvBVVERir5w=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-6',
         title: 'Market 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/642235780/photo/oshodi-market.jpg?s=612x612&w=0&k=20&c=6b_uFGb-Z2pughkG1hjiOQ6YdYqmXcZTkbta_8dbIrA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-7',
         title: 'Market 7',
-        thumb: 'insert image link',
+        thumb: 'ihttps://media.gettyimages.com/id/928800312/photo/balogun-market-in-lagos.jpg?s=612x612&w=0&k=20&c=WQA0DAXLyCNLCKIQ7jEXpqAUCJ8pgOIgCq7BLRvGB-o=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-8',
         title: 'Market 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2162792763/photo/20-july-2024-lagos-island-lagos-nigeria-busy-market-area-in-lagos-island-showing-different.jpg?s=612x612&w=0&k=20&c=XvAb0h3lmnBAz3qhBy87aAnvEH4Avp9anmXpQVPiuOg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-9',
         title: 'Market 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149573073/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=9Ctv5AVFDmkX2SMXJM-33_rtGbvA9w42eKMbDHxe25M=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/photo/lady-carrying-shopping-paper-bags-royalty-free-image/2149572989?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=646',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-11',
         title: 'Market 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2149573150/photo/lady-carrying-shopping-paper-bags.jpg?s=612x612&w=0&k=20&c=XHgQhTfpnwoN0mz2BeWiRYQphHUXXKfNgGk0eaSXSrA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'market-12',
         title: 'Market 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2178986557/photo/modern-bus-terminal-and-parking-system.jpg?s=612x612&w=0&k=20&c=CH-zF9Fd5yGMaYay8fyF8RNDU9vg-WBgVyNwiu2b6EQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
