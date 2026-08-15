@@ -78,7 +78,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'https://www.gettyimages.com/detail/photo/neighbourhood-watch-royalty-free-image/919803222?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=996',
+        thumb: 'https://media.gettyimages.com/id/919803222/photo/neighbourhood-watch.jpg?s=612x612&w=0&k=20&c=Zxg3B4FEJbFL-j87Mi2CkvnTp-RQ9kvjBGY5lgCirfw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
