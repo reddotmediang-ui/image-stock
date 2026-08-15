@@ -374,7 +374,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'aerial-7',
         title: 'Aerial 7',
-        thumb: 'https://www.gettyimages.com/detail/photo/lekki-ubran-area-in-lagos-nigeria-royalty-free-image/2252327596?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=107',
+        thumb: 'https://media.gettyimages.com/id/2234154168/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=2epMRnLKvSwFBXSfR71nUG1YemBbR-_DdD7zO6Ey6Jw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
