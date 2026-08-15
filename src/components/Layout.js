@@ -121,7 +121,7 @@ export default function Layout({ children }) {
           </div>
         </div>
         <div className={styles.footerBottom}>
-          <p>&copy; 2024 African Photos and Videos. All rights reserved.</p>
+          <p>&copy; 2026 African Photos and Videos. All rights reserved.</p>
         </div>
       </footer>
     </div>
