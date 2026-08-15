@@ -78,7 +78,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-2',
         title: 'Transportation 2',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/front-view-truck-photo-249174762_iconl.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
