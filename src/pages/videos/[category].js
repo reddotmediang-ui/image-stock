@@ -778,7 +778,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-9',
         title: 'Landmark 9',
-        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2234272739?slot=395',
+        thumb: 'https://media.gettyimages.com/id/1434628650/video/commercial-streets-of-lagos.mp4?s=mp4-640x640-gi&k=20&c=2QZfTa8zBTdCraadAH9OA8Trnz1TEXYz1-Y98bjHxGo=,
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
