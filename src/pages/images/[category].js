@@ -569,21 +569,21 @@ export async function getStaticProps({ params }) {
       {
         id: 'food-10',
         title: 'Food 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/787144030/display_1500/stock-photo-itaogbolu-akure-nigeria-december-products-sold-by-a-local-shop-on-the-street-of-787144030.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-11',
         title: 'Food 11',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1437848336/display_1500/stock-photo--june-lagos-nigeria-local-fruit-called-pear-often-found-in-nigeria-it-s-mostly-eaten-1437848336.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'food-12',
         title: 'Food 12',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/787144036/display_1500/stock-photo-itaogbolu-akure-nigeria-december-products-sold-by-a-local-shop-on-the-street-of-787144036.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
