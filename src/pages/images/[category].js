@@ -1056,7 +1056,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-5',
         title: 'Travel 5',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/inner-view-cult-building-photo-249174046_iconl.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
