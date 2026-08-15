@@ -771,7 +771,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-8',
         title: 'Landmark 8',
-        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2237664906?slot=402',
+        thumb: 'https://media.gettyimages.com/id/2253172553/video/aerial-view-of-tafawa-balewa-square.jpg?s=640x640&k=20&c=G0y-3cbgKtij8VVp3mfpuTjB11MAxSjDtBoEXlA9vQw=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -785,21 +785,21 @@ export async function getStaticProps({ params }) {
       {
         id: 'landmark-10',
         title: 'Landmark 10',
-        thumb: 'https://www.gettyimages.com/detail/video/aerial-view-of-lush-vegetation-stock-footage/2234272739?slot=395',
+        thumb: 'https://media.gettyimages.com/id/2252360939/video/lekki-link-bridge-in-lagos-nigeria.jpg?s=640x640&k=20&c=byx1R9WDXondp-ZrFbnlrfa2c8WjYDdrqcW09LPgBWs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-11',
         title: 'Landmark 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2244512840/video/aerial-view-of-a-interchange-where-roads-curve.jpg?s=640x640&k=20&c=_PO6gNKmzbVa0NnAeEPELdpUorULuifjyBxHW82L8fo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'landmark-12',
         title: 'Landmark 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234565490/video/aerial-view-of-lagos-island.jpg?s=640x640&k=20&c=KMqDj_sFmaEZnd99PByNHxqR9KKJ--QgTO7dkNOXjww=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
