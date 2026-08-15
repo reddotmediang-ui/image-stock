@@ -680,84 +680,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'backgrounds-1',
         title: 'Backgrounds 1',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2368138467/display_1500/stock-photo-british-pound-money-bills-of-united-kingdom-2368138467.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-2',
         title: 'Backgrounds 2',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1151074622/display_1500/stock-photo-light-streaks-at-night-1151074622.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-3',
         title: 'Backgrounds 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1143546323/display_1500/stock-photo-hollow-metallic-material-1143546323.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-4',
         title: 'Backgrounds 4',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1135062500/display_1500/stock-photo-water-drop-on-surface-1135062500.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-5',
         title: 'Backgrounds 5',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2802373751/display_1500/stock-photo-surface-texture-shot-out-door-2802373751.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-6',
         title: 'Backgrounds 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/530540638/display_1500/stock-photo-blurred-colour-530540638.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-7',
         title: 'Backgrounds 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1142526086/display_1500/stock-photo-water-drop-texture-1142526086.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-8',
         title: 'Backgrounds 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1142517908/display_1500/stock-photo-water-drop-texture-1142517908.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-9',
         title: 'Backgrounds 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2355610943/display_1500/stock-photo--august-lagos-nigeria-door-design-of-osugbo-shrine-in-ikorodu-road-lagos-nigeria-2355610943.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-10',
         title: 'Backgrounds 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2355610943/display_1500/stock-photo--august-lagos-nigeria-door-design-of-osugbo-shrine-in-ikorodu-road-lagos-nigeria-2355610943.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-11',
         title: 'Backgrounds 11',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1142517662/display_1500/stock-photo-water-drop-texture-1142517662.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'backgrounds-12',
         title: 'Backgrounds 12',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2802373795/display_1500/stock-photo-surface-texture-shot-out-door-2802373795.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
