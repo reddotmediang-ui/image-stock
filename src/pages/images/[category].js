@@ -99,7 +99,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'transportation-5',
         title: 'Transportation 5',
-        thumb: 'ihttps://images.pond5.com/vintage-buildings-developed-areas-shot-photo-249174743_iconl_nowm.jpeg',
+        thumb: 'https://images.pond5.com/vintage-buildings-developed-areas-shot-photo-249174743_iconl_nowm.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
