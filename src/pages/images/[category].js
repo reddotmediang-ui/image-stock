@@ -1028,28 +1028,28 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-1',
         title: 'Travel 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2252327592/photo/lekki-ubran-area-in-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=T8d_D5l3vuC4_lthyGVmtlYEUnCP25lfBeQgLiG-npc=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-2',
         title: 'Travel 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234302576/photo/coexisting-with-green-environment.jpg?s=612x612&w=0&k=20&c=_qgFbUjRv2hNhDqRgZjDTB95jMYOFtI-nNgMpZ6Iiys=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-3',
         title: 'Travel 3',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2391319553/display_1500/stock-photo--november-lagos-nigeria-mode-of-transportation-in-berger-area-of-lagos-nigeria-2391319553.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-4',
         title: 'Travel 4',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2441830177/display_1500/stock-photo--march-lagos-nigeria-lagos-train-transportation-system-captured-in-marina-train-station-2441830177.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -1063,49 +1063,49 @@ export async function getStaticProps({ params }) {
       {
         id: 'travel-6',
         title: 'Travel 6',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2205815153/display_1500/stock-photo--september-ojodu-lagos-popular-motorcycle-riders-called-okada-in-lagos-nigeria-2205815153.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-7',
         title: 'Travel 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/1432582250/display_1500/stock-photo-busy-road-traffic-lagos-nigeria-may-road-traffic-in-marina-lagos-nigeria-1432582250.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-8',
         title: 'Travel 8',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/581490148/display_1500/stock-photo-lagos-nigeria-september-motorcycle-rider-also-known-as-okada-rides-through-581490148.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-9',
         title: 'Travel 9',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/581466310/display_1500/stock-photo-lagos-nigeria-september-commercial-bus-known-as-danfo-in-lagos-nigeria-581466310.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-10',
         title: 'Travel 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2180908974/photo/aerial-perspective-of-growth-and-development.jpg?s=612x612&w=0&k=20&c=UQnmIFz0-jffctvM7qFL6YX8MT_KMhKb0lWaDWx-slk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-11',
         title: 'Travel 11',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/front-view-cult-building-members-photo-249174094_iconl.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'travel-12',
         title: 'Travel 12',
-        thumb: 'insert image link',
+        thumb: 'https://images.pond5.com/images-world-photography-day-photowalk-photo-249174629_iconl.jpeg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
