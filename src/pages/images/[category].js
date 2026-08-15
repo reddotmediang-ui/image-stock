@@ -419,84 +419,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'technology-1',
         title: 'Technology 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2257895087/photo/phone-sticking-out-from-a-sweater.jpg?s=612x612&w=0&k=20&c=rIbPIUkK-pE83td6eRbOAs1zmf60VqSYMCnqScx0DiM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-2',
         title: 'Technology 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2142823708/photo/young-man-working-from-the-comfort-of-his-home.jpg?s=612x612&w=0&k=20&c=nqKzqESDLqMxXvQ7P1kFwZgaj88AdblsTBKbHT_zO3Y=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-3',
         title: 'Technology 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2205374011/photo/millennial-and-gen-z-using-mobile-phone.jpg?s=612x612&w=0&k=20&c=M_3oF1AoML1BhyxHXeiMbX6Ku6Ux0Ti9RmbuzGtu8Lk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-4',
         title: 'Technology 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2206382289/photo/blonde-hair-lady-on-a-phone-call.jpg?s=612x612&w=0&k=20&c=9N6HxXoUi-uxvFbSctiP5bRjn3C6TLE6zQXYRNJOSeg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-5',
         title: 'Technology 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2173755779/photo/woman-taking-down-notes.jpg?s=612x612&w=0&k=20&c=JkZ10KRDkom2NeIZmtpQMCD5K_kJs_Qx5PIHaPBE3ZE=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-6',
         title: 'Technology 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1453679329/photo/happy-young-lady-holding-a-smart-phone.jpg?s=612x612&w=0&k=20&c=hYgvYHTHZpsrgSDLlu2MwCxQu04GsZH9CZ9mijc6BmU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-7',
         title: 'Technology 7',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2205371637/photo/millennial-and-gen-z-using-mobile-phone.jpg?s=612x612&w=0&k=20&c=l-6y-1KjMKuJQaCmFZlM-7eVRIb-iqgF2VAaMt35dgg=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-8',
         title: 'Technology 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/1453678177/photo/happy-lady-holding-a-mobile-phone.jpg?s=612x612&w=0&k=20&c=g4N5LewNw10oTGX2BxdhYL-wLFlCQrABNF-6SUExWms=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-9',
         title: 'Technology 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2204609638/photo/outdoor-radio-broadband-connection.jpg?s=612x612&w=0&k=20&c=qn4VmFf2mzTg-l9P6Mq3YnkKkj1XwbWSq2tE1ZZFDm8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-10',
         title: 'Technology 10',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2204710518/photo/satelite-dish-for-cable-tv.jpg?s=612x612&w=0&k=20&c=aDnBdQEj3vIi7GUS1aZImn41S1a_JtaUuuCCF5aRhoo=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-11',
         title: 'Technology 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2205373819/photo/millennial-and-gen-z-using-mobile-phone.jpg?s=612x612&w=0&k=20&c=blNN7wJAFQWhPbS95nTk24fHA27nDCOUgg_-xAjuVhs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'technology-12',
         title: 'Technology 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2165602476/photo/electric-meters-for-homes.jpg?s=612x612&w=0&k=20&c=4Qn0LIT8VrdAZAiUhMn4tVHIktSGQphF5pOlQPM28Co=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
