@@ -910,7 +910,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'business-9',
         title: 'Business 9',
-        thumb: 'https://www.gettyimages.com/detail/photo/self-portrait-of-a-business-owner-royalty-free-image/2159863832?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=889',
+        thumb: 'https://media.gettyimages.com/id/2159863903/photo/self-portrait-of-a-business-owner.jpg?s=612x612&w=0&k=20&c=oe8h8CO7GATyw7_yPK4IJR9S5kmU73j7_jPs10_1zDM=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
