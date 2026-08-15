@@ -548,7 +548,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'food-7',
         title: 'Food 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.shutterstock.com/shutterstock/photos/2314539789/display_1500/stock-photo-little-girl-scooping-strawberry-ice-cream-from-a-white-container-2314539789.jpg',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
