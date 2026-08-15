@@ -332,84 +332,84 @@ export async function getStaticProps({ params }) {
       {
         id: 'aerial-1',
         title: 'Aerial 1',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253043989/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=sKqUaROA-Ov9u9HvNpT_-BQiAN-hQrTarUvVV05CNuk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-2',
         title: 'Aerial 2',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234146423/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=Y-HtCG41khassM_gXKGpRkUUq-bHsozPB7PTIsIpVMQ=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-3',
         title: 'Aerial 3',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2252327251/photo/lekki-link-bridge-in-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=d1kD3zZbZLLlu0lhats_KIYec533l6JJCL_FTWxgLIA=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-4',
         title: 'Aerial 4',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253043958/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=sh15_GWhbIczpJvtK0kZOLj7GRvYwK592NP3qs1RcLs=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-5',
         title: 'Aerial 5',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253043994/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=AaWELikcpfAw5oVyFjXDwuaYVugV5ZwuAhN4ytQWW4s=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-6',
         title: 'Aerial 6',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2253043968/photo/aerial-view-of-a-tennis-court.jpg?s=612x612&w=0&k=20&c=c3nxMIG2Zr0sjySuGLajVFMnXOT9Rtxqo27LVBRCia4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-7',
         title: 'Aerial 7',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/photo/lekki-ubran-area-in-lagos-nigeria-royalty-free-image/2252327596?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=107',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-8',
         title: 'Aerial 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2283463837/photo/beautiful-architectural-structure-with-lush-green-environment.jpg?s=612x612&w=0&k=20&c=sJSIo0CHHKd07nz0hoaIXZrVngUfggmhwn50IFb8C3c=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-9',
         title: 'Aerial 9',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2236311741/photo/skylines-of-lagos-city.jpg?s=612x612&w=0&k=20&c=cWSSakg35M-nwpV0tFiobTn7cEKiHYIHtYplCinIZqU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-10',
         title: 'Aerial 10',
-        thumb: 'insert image link',
+        thumb: 'https://www.gettyimages.com/detail/photo/skylines-of-lagos-city-royalty-free-image/2236318002?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=197',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-11',
         title: 'Aerial 11',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2234149449/photo/aerial-view-of-lagos-island.jpg?s=612x612&w=0&k=20&c=lWi8LdIYI8HKFcVVCZrpXo0UdDhvZpOFT_Pim5uXfsU=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
       {
         id: 'aerial-12',
         title: 'Aerial 12',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/928996870/photo/sea-port-in-marina-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=DbJhETIhPqoZKrVf-ygwR2a1yS3FN6YKe5Xqn0KaV24=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       }
