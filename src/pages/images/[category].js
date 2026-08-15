@@ -367,7 +367,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'aerial-6',
         title: 'Aerial 6',
-        thumb: 'https://media.gettyimages.com/id/2253043968/photo/aerial-view-of-a-tennis-court.jpg?s=612x612&w=0&k=20&c=c3nxMIG2Zr0sjySuGLajVFMnXOT9Rtxqo27LVBRCia4=',
+        thumb: 'https://media.gettyimages.com/id/2179500579/photo/aerial-perspective-of-growth-and-development.jpg?s=612x612&w=0&k=20&c=UT3kPky6OH0Ql9otB-FY7-4w41_bS8Rx1yUDr-mqkj4=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -395,7 +395,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'aerial-10',
         title: 'Aerial 10',
-        thumb: 'https://www.gettyimages.com/detail/photo/skylines-of-lagos-city-royalty-free-image/2236318002?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=197',
+        thumb: 'https://media.gettyimages.com/id/2234302492/photo/coexisting-with-green-environment.jpg?s=612x612&w=0&k=20&c=u2QI03N3Js7vQ5QZZ4W9JYWmUlOUdblXHgsx32gs_yY=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
