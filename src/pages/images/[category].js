@@ -200,7 +200,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-7',
         title: 'Market 7',
-        thumb: 'ihttps://media.gettyimages.com/id/928800312/photo/balogun-market-in-lagos.jpg?s=612x612&w=0&k=20&c=WQA0DAXLyCNLCKIQ7jEXpqAUCJ8pgOIgCq7BLRvGB-o=',
+        thumb: 'https://media.gettyimages.com/id/928800312/photo/balogun-market-in-lagos.jpg?s=612x612&w=0&k=20&c=WQA0DAXLyCNLCKIQ7jEXpqAUCJ8pgOIgCq7BLRvGB-o=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
@@ -221,7 +221,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'market-10',
         title: 'Market 10',
-        thumb: 'https://www.gettyimages.com/detail/photo/lady-carrying-shopping-paper-bags-royalty-free-image/2149572989?phrase=ariyo%20olasunkanmi&searchscope=image%2Cfilm&slot=646',
+        thumb: 'https://media.gettyimages.com/id/1648322779/photo/traditional-herbs-and-calabash-seller-in-ajina-market-ikorodu-lagos-nigeria.jpg?s=612x612&w=0&k=20&c=iGdOcyXAKhgNZOUsmvjrVdTrd8Getdex7YWEBzXvYR8=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
