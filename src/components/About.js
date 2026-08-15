@@ -7,7 +7,7 @@ export default function About() {
         <div className={styles.profileSection}>
           <div className={styles.profileImage}>
             <img 
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop" 
+              src="https://cdn.pond5.com/p21/002503253_l670.jpg" 
               alt="Profile photograph"
             />
           </div>
