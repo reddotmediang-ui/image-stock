@@ -294,7 +294,7 @@ export async function getStaticProps({ params }) {
       {
         id: 'lifestyle-8',
         title: 'Lifestyle 8',
-        thumb: 'insert image link',
+        thumb: 'https://media.gettyimages.com/id/2205374011/photo/millennial-and-gen-z-using-mobile-phone.jpg?s=612x612&w=0&k=20&c=M_3oF1AoML1BhyxHXeiMbX6Ku6Ux0Ti9RmbuzGtu8Lk=',
         url: '#',
         platforms: ['getty', 'shutterstock', 'adobe', 'pond5']
       },
